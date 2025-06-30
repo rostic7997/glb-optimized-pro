@@ -255,8 +255,7 @@ interface OptimizationSettings {
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-
-- [glTF-Transform](https://gltf-transform.donmccurdy.com/) for 3D optimization
+- [glTF-Transform](https://gltf-transform.donmccurdy.com/) 
 - [Three.js](https://threejs.org/) for 3D rendering
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber) for React integration
 - [Tailwind CSS](https://tailwindcss.com/) for styling
@@ -264,12 +263,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Issues](https://github.com/yourusername/glb-optimizer-pro/issues)
-- 💬 [Discussions](https://github.com/yourusername/glb-optimizer-pro/discussions)
-- 📧 Email: your-email@example.com
+- 🐛 [Report Issues](https://github.com/rostic7997/glb-optimizer-pro/issues)
+- 📧 Email: forstychaos144@gmail.com
+- [telegram](https://t.me/NTXNE) 
 
 ---
 
 **Made with ❤️ for the 3D development community**
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/glb-optimizer-pro)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rostic7997/glb-optimizer-pro)
