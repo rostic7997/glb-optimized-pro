@@ -36,7 +36,7 @@ A professional 3D model optimization tool that reduces file sizes, optimizes mes
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rostic7997/glb-optimized-pro.git
+   git clone https://github.com/rostic7997/glb-optimizer-pro.git
    cd glb-optimizer-pro
    ```
 
