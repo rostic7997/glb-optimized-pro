@@ -60,7 +60,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     averageReduction: 0
   });
 
-  const CLIENT_ID = 'Ov23liskwvcbez1PIwYS';
+  const CLIENT_ID = 'Client-ID';
   const REDIRECT_URI = window.location.origin;
 
   useEffect(() => {
@@ -202,7 +202,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         },
         body: JSON.stringify({
           client_id: CLIENT_ID,
-          client_secret: 'f3fdc287aaa2d1fd4e86f0fac30b08d91be92f58',
+          client_secret: 'Client-secret',
           code: code,
         }),
       });
