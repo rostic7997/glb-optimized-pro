@@ -2,7 +2,7 @@
 
 A professional 3D model optimization tool that reduces file sizes, optimizes meshes, and compresses textures while maintaining visual quality. Perfect for web applications, games, and AR/VR experiences.
 
-![GLB Optimizer Pro](https://img.shields.io/badge/GLB-Optimizer%20Pro-blue?style=for-the-badge&logo=3d)
+![GLB Optimizer Pro](https://glboptimized-pro.netlify.app)
 
 ## 🚀 Features
 
